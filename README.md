@@ -17,4 +17,4 @@ Dosen Pengampu  : DR. Achmad Solichin, S.Kom., MTI.
 6. Pencarian node yang diinginkan
 7. Reset BST
 
-untuk file yang di upload ada 2 file. File pertama yang bernamakan testing dinams UAS PSDA adalah sebuah program yang telah dimasukkan bilangan melalui sistem, dan UAS PSDA Semester 2 adalah bentuk final dari program yang saya buat dengan menggunakan loop use case untuk pemasukkan bilangan melalui keyboard.
+untuk file yang di upload ada 2 file. File pertama yang bernamakan "testing dinamis UAS PSDA" adalah sebuah program yang telah dimasukkan bilangan melalui sistem, dan "UAS PSDA Semester 2" adalah bentuk final dari program yang saya buat dengan menggunakan loop use case untuk pemasukkan bilangan melalui keyboard.
