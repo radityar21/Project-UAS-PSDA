@@ -1,11 +1,11 @@
 # Project-UAS-PSDA-UPN VETERAN JAKARTA
 
-Tugas pengganti UAS
-Nama            : Raditya Rahardyansyah Rifat
-NIM             : 1910512014
-email           : radityarrifat123@gmail.com
-Kelas           : Kelas A PSDA UPN Veteran Jakarta
-Dosen Pengampu  : DR. Achmad Solichin, S.Kom., MTI.
+-Tugas pengganti UAS-
+. Nama            : Raditya Rahardyansyah Rifat
+. NIM             : 1910512014
+. email           : radityarrifat123@gmail.com
+. Kelas           : Kelas A PSDA UPN Veteran Jakarta
+. Dosen Pengampu  : DR. Achmad Solichin, S.Kom., MTI.
 
   Hallo, saya Radit, mahasiswa fakultas ilmu komputer UPN veteran Jakarta. Dalam rangka penyelesaian tugas akhir PSDA, saya memperkenalkan program yang telah saya buat. Program ini merupakan program BST.
   Program BST yang ada terdiri dari sub fungsi yang akan dipanggil di dalam fungsi utama. Di program yang saya buat, setidaknya ada fungsi untuk: 
