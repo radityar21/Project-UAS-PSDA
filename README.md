@@ -2,14 +2,12 @@
 
 -Tugas pengganti UAS-
 
-Nama            : Raditya Rahardyansyah Rifat
-
-NIM             : 1910512014
+Nama            : Raditya Rahardyansyah Rifat.
+NIM             : 1910512014.
 
 email           : radityarrifat123@gmail.com
 
-Kelas           : Kelas A PSDA UPN Veteran Jakarta
-
+Kelas           : Kelas A PSDA UPN Veteran Jakarta.
 Dosen Pengampu  : DR. Achmad Solichin, S.Kom., MTI.
 
   Hallo, saya Radit, mahasiswa fakultas ilmu komputer UPN veteran Jakarta. Dalam rangka penyelesaian tugas akhir PSDA, saya memperkenalkan program yang telah saya buat. Program ini merupakan program BST.
